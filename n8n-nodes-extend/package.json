@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-dubbo-invoker",
+  "name": "n8n-nodes-extend",
   "version": "0.1.0",
   "description": "Example starter module for custom n8n nodes.",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -44,7 +44,7 @@
     "typescript": "~3.5.2"
   },
   "dependencies": {
-    "apache-dubbo-js": "^3.0.0-rc6",
+    "axios": "^0.21.1",
     "n8n-core": "^0.10.0"
   },
   "jest": {

@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "n8n": "^0.113.0",
-    "n8n-nodes-dubbo-invoker": "file:n8n-nodes-dubbo-invoker"
+    "n8n-nodes-extendr": "file:n8n-nodes-extend"
   },
   "devDependencies": {},
   "scripts": {
